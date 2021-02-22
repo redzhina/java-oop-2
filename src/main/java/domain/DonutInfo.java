@@ -1,6 +1,6 @@
 package domain;
 
-public class donutInfo {
+public class DonutInfo {
     private boolean isDonut;
     private int paidDuration;
     private String placeholder;

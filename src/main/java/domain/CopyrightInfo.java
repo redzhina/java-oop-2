@@ -1,6 +1,6 @@
 package domain;
 
-public class copyrightInfo {
+public class CopyrightInfo {
     private int ID;
     private String link;
     private String name;

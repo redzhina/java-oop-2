@@ -1,6 +1,6 @@
 package domain;
 
-public class commentsInfo {
+public class CommentsInfo {
     private int commentsCount;
     private boolean canPost;
     private boolean groupsCanPost;
