@@ -1,6 +1,6 @@
 package domain;
 
-public class post {
+public class Post {
     private int id;
     private int ownerID;
     private String fromID;
